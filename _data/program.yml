@@ -1,0 +1,24 @@
+days:
+- name: Day 1
+  abbr: D1
+  date: 2025-06-17
+  rooms:
+  - name: Hotel Doorwerth-Arnhem
+    talks:
+      - name: Program Day 1 TBD
+        time_start: '12:00'
+        time_end: '22:00'
+
+- name: Day 2
+  abbr: D2
+  date: 2025-06-18
+  rooms:
+  - name: Hotel Doorwerth-Arnhem
+    talks:
+      - name: Program Day 2 TBD
+        time_start: '07:00'
+        time_end: '13:00'
+  
+
+      
+   

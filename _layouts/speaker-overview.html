@@ -1,0 +1,118 @@
+{% include partials/header.html %}
+
+  <!--<h1 class="display-5 mb-4 text-break">
+    {% if page.title %}
+      {{ page.title }}
+    {% else %}
+      {{ site.data.lang[site.conference.lang].speaker.overview | default: "Speakers" }}
+    {% endif %}
+  </h1>-->
+
+  {{ content }}
+
+
+  <div>
+
+    {% for main_category in site.conference.talks.main_categories %}
+      {% if main_category.name == 'Keynote' %}
+        <h3 class="mt-5 mb-3">
+          <span class="badge border-soft-{{ main_category.color }} bg-soft-{{ main_category.color }} d-block d-sm-inline text-wrap">
+            {{ main_category.name }}
+          </span>
+        </h3>
+        {% break %}
+        {% endif %}
+    {% endfor %}
+    
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mb-5">
+      {% for talk in site.talks -%}
+          {%- for cat in talk.categories -%}
+            {%- if cat == 'Keynote' -%}
+            <div>
+              <h5 class="font-weight-light">
+              <div class="d-flex flex-wrap align-items-center">
+              {% for speaker_name in talk.speakers -%}
+              {%- assign speaker = site.speakers | where: 'name', speaker_name | first -%}
+              <div class="text-center m-2" style="flex: 0 1 auto; min-width: 150px;">
+                {%- assign speaker_image = speaker.name | replace: ' ', '_' | append: '.jpg' -%}
+                <a href="{{ speaker.url | prepend: site.baseurl }}">
+                <img src="{{ '/imgs/' | append: speaker_image | prepend: site.baseurl }}" alt="{{ speaker.name }}" style="width: 140px; height: 140px; object-fit: cover; object-position: center;">
+                <div class="mt-2">
+                {%- if site.conference.speakers.show_firstname -%}
+                {%- assign speaker_short = speaker.first_name | append: ' ' | append: speaker.last_name -%}
+                {%- else -%}
+                {%- assign speaker_short = speaker.first_name | slice: 0 | append : '. ' | append: speaker.last_name -%}
+                {%- endif -%}
+                {%- if speaker.hide or include.text_only -%}
+                {{- speaker_short -}}
+                {%- else -%}
+                <a class="text-reset" href="{{ speaker.url | prepend: site.baseurl }}">
+                {{- speaker_short -}}
+                <i class="fas fa-external-link-alt ml-1" style="font-size: 0.8em;"></i>
+                </a>
+                {%- endif -%}
+                </div>
+              </div>
+              {%- endfor %}
+              </div>
+              </h5>
+            </div>
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+
+      {% for main_category in site.conference.talks.main_categories %}
+      {% if main_category.name == 'Featured' %}
+        <h3 class="mt-5 mb-3">
+          <span class="badge border-soft-{{ main_category.color }} bg-soft-{{ main_category.color }} d-block d-sm-inline text-wrap">
+            {{ main_category.name }}
+          </span>
+        </h3>
+        {% break %}
+        {% endif %}
+    {% endfor %}
+    
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mb-5">
+    {% for talk in site.talks -%}
+        {%- for cat in talk.categories -%}
+          {%- if cat == 'Featured' -%}
+          <div>
+            <h5 class="font-weight-light">
+            <div class="d-flex flex-wrap align-items-center">
+            {% for speaker_name in talk.speakers -%}
+            {%- assign speaker = site.speakers | where: 'name', speaker_name | first -%}
+            <div class="text-center m-2" style="flex: 0 1 auto; min-width: 150px;">
+              {%- assign speaker_image = speaker.name | replace: ' ', '_' | append: '.jpg' -%}
+              <a href="{{ speaker.url | prepend: site.baseurl }}">
+              <img src="{{ '/imgs/' | append: speaker_image | prepend: site.baseurl }}" alt="{{ speaker.name }}" style="width: 140px; height: 140px; object-fit: cover; object-position: center;">
+              <div class="mt-2">
+              {%- if site.conference.speakers.show_firstname -%}
+              {%- assign speaker_short = speaker.first_name | append: ' ' | append: speaker.last_name -%}
+              {%- else -%}
+              {%- assign speaker_short = speaker.first_name | slice: 0 | append : '. ' | append: speaker.last_name -%}
+              {%- endif -%}
+              {%- if speaker.hide or include.text_only -%}
+              {{- speaker_short -}}
+              {%- else -%}
+              <a class="text-reset" href="{{ speaker.url | prepend: site.baseurl }}">
+              {{- speaker_short -}}
+              <i class="fas fa-external-link-alt ml-1" style="font-size: 0.8em;"></i>
+              </a>
+              {%- endif -%}
+              </div>
+            </div>
+            {%- endfor %}
+            </div>
+            </h5>
+          </div>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </div>
+  </div>
+
+
+  
+
+{% include partials/footer.html %}
