@@ -92,7 +92,7 @@ conference:
           - name: 2026 (current)
             disabled: true
           - name: 2025
-            relative_url: /2025/
+            absolute_url: https://thenccv.github.io/2025/
             disabled: false
 
 
