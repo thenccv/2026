@@ -14,4 +14,27 @@ We welcome everybody interested in computer vision in the Netherlands to join us
 * **Cancellation deadline:** TBD
 * **Conference start:** June 17th, 2026
 
-<!-- Add sponsors later, see NCCV 2025 for template -->
+
+### Sponsors
+----------
+<div class="container" style="border-bottom:30em">
+        <div class="row">
+                <table style="width:100%;">
+                        <thead>
+                                <tr>
+                                        <th style="width:33%;background: #E5E4E2;"><h5> &ensp; PLATINUM</h5></th>
+                                </tr>
+                        </thead>
+                        <tbody>
+                                <tr>
+                                        <td class="text-center" style="vertical-align:middle;">
+                                                <a href="https://asci.school/">
+                                                        <img src="imgs/sponsors/ASCI.jpg" class="rounded mx-auto d-block" alt="asci" style="max-height:6em">
+                                                </a>
+                                        </td>
+                                </tr>
+                        </tbody>
+                </table>
+        </div>
+</div>
+----------
