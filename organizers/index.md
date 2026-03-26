@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<br />
 
 ### Organizers
-<br />
+
+-----------
 
 <div class="container">
         <div class="row text-center">
@@ -46,7 +46,8 @@ layout: default
 <br />
 
 ### Local arrangements
-<br />
+
+-----------
 
 <div class="container">
         <div class="row text-center">

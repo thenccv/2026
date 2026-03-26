@@ -81,8 +81,8 @@ conference:
       #   relative_url: /talks/
       # - name: Speakers
       #   relative_url: /speakers/
-      # - name: Papers
-      #   relative_url: /papers/
+      - name: Paper submission
+        relative_url: /papers/
       - name: Organizers
         relative_url: /organizers/
       - name: Location
@@ -117,11 +117,11 @@ conference:
       - name: Getting here
         relative_url: /location/
       - name: Register
-        disabled: true #! to be changed
-        absolute_url: '#'
+        disabled: false
+        absolute_url: 'https://www.aanmelder.nl/nccv2026/registration'
       - name: Submit your paper
-        disabled: true #! to be changed
-        absolute_url: '#'
+        disabled: false
+        absolute_url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKfYeUMLep2oRSiiyjqINRB9Rg1P61f-M2HKcXydSO3kKBuQ/viewform'
 
   # Information boxes
   #info_bars:
