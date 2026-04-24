@@ -1,22 +1,78 @@
 days:
 - name: Day 1
   abbr: D1
-  date: 2025-06-17
+  date: 2026-06-17
   rooms:
   - name: Hotel Doorwerth-Arnhem
     talks:
-      - name: Program Day 1 TBD
+      - name: Arrival and Registration
+        time_start: '11:00'
+        time_end: '12:00'
+      - name: Lunch
         time_start: '12:00'
-        time_end: '22:00'
-
+        time_end: '13:00'
+      - name: Break
+        time_start: '14:15'
+        time_end: '14:30'
+      - name: Break
+        time_start: '15:30'
+        time_end: '15:45'
+      - name: Break and Hotel check-in
+        time_start: '17:30'
+        time_end: '18:00'
+      - name: Dinner
+        time_start: '18:00'
+        time_end: '20:30'
+  - name: Tuinzaal
+    talks:
+      - name: Opening Talk by organizers
+        time_start: '13:00'
+        time_end: '13:15'
+      - name: Keynote 1
+        time_start: '13:15'
+        time_end: '14:15'
+      - name: Oral Session 1
+        time_start: '14:30'
+        time_end: '15:30'
+      - name: Poster Session 1
+        time_start: '15:45'
+        time_end: '17:30'
+  - name: English Pub
+    talks:
+      - name: Social Event
+        time_start: '20:30'
+        time_end: '22:30'
 - name: Day 2
   abbr: D2
-  date: 2025-06-18
+  date: 2026-06-18
   rooms:
   - name: Hotel Doorwerth-Arnhem
     talks:
-      - name: Program Day 2 TBD
+      - name: Breakfast and Check-out
         time_start: '07:00'
+        time_end: '09:00'
+      - name: Break
+        time_start: '10:30'
+        time_end: '10:45'
+      - name: Lunch
+        time_start: '13:00'
+        time_end: '14:00'
+  - name: Tuinzaal
+    talks:
+      - name: Oral Session 2
+        time_start: '09:00'
+        time_end: '09:30'
+      - name: Keynote 2
+        time_start: '09:30'
+        time_end: '10:30'
+      - name: Poster Session 2
+        time_start: '10:45'
+        time_end: '12:00'
+      - name: NCCV/CompSys Joint Panel Discussion
+        time_start: '12:00'
+        time_end: '12:45'
+      - name: ASCI Best Paper Award
+        time_start: '12:45'
         time_end: '13:00'
   
 

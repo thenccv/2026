@@ -1,5 +1,5 @@
 ---
-name: ASCI best paper award
+name: ASCI Best Paper Award
 categories:
   - Award
 hide: True

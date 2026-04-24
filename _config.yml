@@ -75,12 +75,12 @@ conference:
     links:
       - name: Attend
         relative_url: /attend/
-      # - name: Program
-      #   relative_url: /program/
+      - name: Program
+        relative_url: /program/
       # - name: Sessions
       #   relative_url: /talks/
-      # - name: Speakers
-      #   relative_url: /speakers/
+      - name: Speakers
+        relative_url: /speakers/
       - name: Paper submission
         relative_url: /papers/
       - name: Organizers
@@ -112,7 +112,6 @@ conference:
       - name: Attend
         relative_url: /attend/
       - name: Program
-        disabled: true #! to be changed
         relative_url: /program/
       - name: Getting here
         relative_url: /location/
@@ -156,7 +155,7 @@ conference:
     main_categories:
       - name: Keynote
         color: success
-      - name: Featured
+      - name: Panel
         color: third
       - name: Oral
         color: warning

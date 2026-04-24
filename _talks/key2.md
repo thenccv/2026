@@ -1,10 +1,9 @@
 ---
-name: Keynote 2 TBD
+name: Keynote 2
 speakers:
-  - TBD
+  - To be announced
 categories:
   - Keynote
-hide: False
+hide: True
 ---
 
-Abstract here.
