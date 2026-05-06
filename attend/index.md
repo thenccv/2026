@@ -19,7 +19,7 @@ The (optional) overnight stay at Fletcher Hotel Doorwerth-Arnhem is <b>106 EUR f
 
 Due to limited room availability, we strongly encourage room sharing.
 
-For any cancellations before <b>May 15th</b> you can receive a <b>full refund minus administration costs of 10EUR</b>.
+For any cancellations before <b>May 12th</b> you can receive a <b>full refund minus administration costs of 10EUR</b>.
 
 -----------
 

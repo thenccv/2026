@@ -10,8 +10,8 @@ We welcome everybody interested in computer vision in the Netherlands to join us
 ### Key dates
 -----------
 * **Registration deadline:** May 8, 2026
-* **Paper submission deadline:** May 8, 2026
 * **Cancellation deadline:** May 12, 2026
+* **Paper submission deadline:** May 20, 2026
 * **Conference start:** June 17, 2026
 
 
