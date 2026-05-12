@@ -22,7 +22,8 @@ We welcome everybody interested in computer vision in the Netherlands to join us
                 <table style="width:100%;">
                         <thead>
                                 <tr>
-                                        <th style="width:33%;background: #E5E4E2;"><h5> &ensp; PLATINUM</h5></th>
+                                        <th class="text-center" style="width:33%;background: #E5E4E2;"><h5> &ensp; PLATINUM</h5></th>
+                                        <th class="text-center" style="width:33%;background: #FFD700;"><h5> &ensp; GOLD</h5></th>
                                 </tr>
                         </thead>
                         <tbody>
@@ -30,6 +31,11 @@ We welcome everybody interested in computer vision in the Netherlands to join us
                                         <td class="text-center" style="vertical-align:middle;">
                                                 <a href="https://asci.school/">
                                                         <img src="imgs/sponsors/ASCI.jpg" class="rounded mx-auto d-block" alt="asci" style="max-height:6em">
+                                                </a>
+                                        </td>
+                                        <td class="text-center" style="vertical-align:middle;">
+                                                <a href="https://deepmind.google/">
+                                                        <img src="imgs/sponsors/googledeepmind.png" class="rounded mx-auto d-block" alt="asci" style="max-height:4em">
                                                 </a>
                                         </td>
                                 </tr>
