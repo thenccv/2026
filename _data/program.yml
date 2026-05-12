@@ -1,6 +1,6 @@
 days:
-- name: Day 1
-  abbr: D1
+- name: June 17
+  abbr: June17
   date: 2026-06-17
   rooms:
   - name: Hotel Doorwerth-Arnhem
@@ -42,8 +42,8 @@ days:
       - name: Social Event
         time_start: '20:30'
         time_end: '22:30'
-- name: Day 2
-  abbr: D2
+- name: June 18
+  abbr: June18
   date: 2026-06-18
   rooms:
   - name: Hotel Doorwerth-Arnhem
@@ -62,7 +62,7 @@ days:
       - name: Oral Session 2
         time_start: '09:00'
         time_end: '09:30'
-      - name: Keynote 2
+      - name: Keynote 2 - Scale is religion?
         time_start: '09:30'
         time_end: '10:30'
       - name: Poster Session 2
