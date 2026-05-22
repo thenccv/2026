@@ -8,7 +8,7 @@ layout: default
 
 We invite submissions of recently published papers and ongoing work, from any area of computer vision. Papers will be checked for topic and relevance, but there is no formal peer-review process, so no formal proceedings will be published.
 
-Papers can be submitted through the link below by **May 20th**. Presenters should register for the conference by **May 8th**. Registration info can be found **[here](../attend/)**.
+~~Papers can be submitted through the link below by **May 20th**. Presenters should register for the conference by **May 8th**. Registration info can be found **[here](../attend/)**.~~
 
 -----------
 
