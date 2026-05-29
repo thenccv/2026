@@ -28,7 +28,7 @@ days:
       - name: Opening Talk by organizers
         time_start: '13:00'
         time_end: '13:15'
-      - name: Keynote 1
+      - name: "Keynote 1 - Scaling 3D: Understanding Model, Data, and Loss"
         time_start: '13:15'
         time_end: '14:15'
       - name: Oral Session 1
@@ -48,7 +48,7 @@ days:
   rooms:
   - name: Hotel Doorwerth-Arnhem
     talks:
-      - name: Breakfast and Check-out
+      - name: Breakfast and Hotel check-out
         time_start: '07:00'
         time_end: '09:00'
       - name: Break

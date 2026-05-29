@@ -81,7 +81,7 @@ conference:
       #   relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
-      - name: Paper submission
+      - name: Papers
         relative_url: /papers/
       - name: Organizers
         relative_url: /organizers/
@@ -116,10 +116,10 @@ conference:
       - name: Getting here
         relative_url: /location/
       - name: Register
-        disabled: false
+        disabled: true
         absolute_url: 'https://www.aanmelder.nl/nccv2026/registration'
       - name: Submit your paper
-        disabled: false
+        disabled: true
         absolute_url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKfYeUMLep2oRSiiyjqINRB9Rg1P61f-M2HKcXydSO3kKBuQ/viewform'
 
   # Information boxes
@@ -157,7 +157,7 @@ conference:
         color: success
       - name: Panel
         color: third
-      - name: Oral
+      - name: Orals
         color: warning
       - name: Posters
         color: info

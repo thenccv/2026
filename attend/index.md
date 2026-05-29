@@ -8,11 +8,13 @@ layout: default
 -----------
 
 #### Conference fee
-The schedule includes two lunches, drinks and snacks, dinner, entertainment, and invited keynotes. 
+~~The schedule includes two lunches, drinks and snacks, dinner, entertainment, and invited keynotes.~~
 
-The conference fee is **240 EUR**. 
+~~The conference fee is **240 EUR**.~~
 
-A reduced fee of **120 EUR** is available for students without travel budget, e.g., Bachelor students, Master students, or self-funded PhDs. To request the reduced registration fee, please contact the organizers with an explanation of your situation. 
+~~A reduced fee of **120 EUR** is available for students without travel budget, e.g., Bachelor students, Master students, or self-funded PhDs. To request the reduced registration fee, please contact the organizers with an explanation of your situation.~~
+
+**Note:** Registration has now closed.
 
 #### Overnight stay
 ~~The (optional) overnight stay at Fletcher Hotel Doorwerth-Arnhem is <b>106 EUR for a shared room</b> and <b>184 EUR for single room</b>. Prices are <b>per person</b> and include breakfast, VAT,  and tourist tax.~~
@@ -25,4 +27,4 @@ A reduced fee of **120 EUR** is available for students without travel budget, e.
 
 -----------
 
-<a class="btn btn-outline-primary btn-lg mt-2 ml-1" href="https://www.aanmelder.nl/nccv2026/registration">Register here</a>
+<!-- <a class="btn btn-outline-primary btn-lg mt-2 ml-1" href="https://www.aanmelder.nl/nccv2026/registration">Register here</a> -->

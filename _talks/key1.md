@@ -1,5 +1,5 @@
 ---
-name: Keynote 1
+name: "Keynote 1 - Scaling 3D: Understanding Model, Data, and Loss"
 speakers:
   - Christian Rupprecht
 categories:
@@ -7,9 +7,11 @@ categories:
 hide: False
 ---
 
-<!-- Abstract will go here -->
+*Abstract*
 
-<!-- ----------- -->
+This talk will take stock of where we stand in 3D computer vision along three key axes: data, model architecture, and supervision signals. Data is perhaps the most obvious scaling dimension, but also one of the hardest to obtain in sufficient quantity and quality. At the same time, 3D data comes in many forms, including point clouds, meshes, and depth maps, each posing distinct challenges for representation learning and model design. Finally, large-scale vision models such as DINO have achieved impressive performance through self-supervision, whereas most 3D models still rely heavily on direct supervision, which is often expensive and difficult to scale. The talk will summarise findings from our recent and ongoing work, while also drawing broader connections across the field.
+
+-----------
 
 *Bio*
 
