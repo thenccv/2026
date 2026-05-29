@@ -39,7 +39,7 @@ Ferdinand Paar, Lanmiao Liu, Asli Ozyurek, Serge Thill, Esam Ghaleb
 Yasaman Kashefbahrami, Erkut Akdag, Panagiotis Meletis, Evgeniya Balmashnova, Dip Goswami, Egor Bondarau
 
 **10. [LiveStre4m: Feed-Forward Live Streaming of Novel Views from Unposed Multi-View Video](https://arxiv.org/abs/2604.06740)** <br />
-LiveStre4m: Feed-Forward Live Streaming of Novel Views from Unposed Multi-View Video
+Pedro Quesado, Erkut Akdag, Yasaman Kashefbahrami, Willem Menu, Egor Bondarev
 
 **11. [PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders](https://arxiv.org/abs/2603.25398)** <br />
 Niccolò Cavagnero, Narges Norouzi, Gijs Dubbelman, Daan de Geus
