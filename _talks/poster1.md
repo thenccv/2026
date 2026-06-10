@@ -48,7 +48,7 @@ Jing Gu, Niccolò Cavagnero, Gijs Dubbelman
 B. Villa Brochero, E. Talavera, I. Gibson
 
 **12. Generating Socially-Aware Gestures for Virtual Avatars** <br />
-David Werkhoven
+David Werkhoven and Esam Ghaleb
 
 **13. [AOI-SSL: Self-Supervised Framework for Efficient Segmentation of Wire-bonded Semiconductors In Optical Inspection](https://arxiv.org/abs/2605.12430)** <br />
 Joaquin Figueira, Rob van Gastel, Giacomo D'Amicantonio, Zhuoran Liu, Ioan Gabriel Bucur, Faysal Boughorbel, Egor Bondarev

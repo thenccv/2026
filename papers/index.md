@@ -56,7 +56,7 @@ Jing Gu, Niccolò Cavagnero, Gijs Dubbelman
 B. Villa Brochero, E. Talavera, I. Gibson
 
 **Generating Socially-Aware Gestures for Virtual Avatars** <br />
-David Werkhoven
+David Werkhoven and Esam Ghaleb
 
 **[AOI-SSL: Self-Supervised Framework for Efficient Segmentation of Wire-bonded Semiconductors In Optical Inspection](https://arxiv.org/abs/2605.12430)** <br />
 Joaquin Figueira, Rob van Gastel, Giacomo D'Amicantonio, Zhuoran Liu, Ioan Gabriel Bucur, Faysal Boughorbel, Egor Bondarev
@@ -121,7 +121,6 @@ Christina Sartzetaki, Anne W. Zonneveld, Pablo Oyarzo, Alessandro T. Gifford, Ra
 
 **[Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization](https://arxiv.org/abs/2604.26820)** <br />
 Mingbo Hong, Feng Liu, Caroline Gevaert, George Vosselman, Hao Cheng
-
 
 **[Joint Instance Segmentation and Geometric Attribute Regression for Roof Structures in Aerial Imagery](https://arxiv.org/abs/2605.26370)** <br />
 Luuk Versteeg, Rob G.J. Wijnhoven, Martin R. Oswald
