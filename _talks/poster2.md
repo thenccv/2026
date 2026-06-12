@@ -67,3 +67,6 @@ Xiaoyan Xing, Xiao Zhang, Sezer Karagolu, Theo Gevers, Ananad Bhattad
 
 **19. On the real-world generalisability of Optical Flow models** <br />
 Petter Reijalt, Sander Gielisse, Rickard Karlsson, Jan van Gemert
+
+**20. [Where Do We (Not) Need Temporal Context in Low-Resource Video Task Adaptation?](https://arxiv.org/abs/2606.03837)** <br />
+Luc P.J. Sträter and Hazel Doughty
