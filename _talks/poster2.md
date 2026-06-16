@@ -70,3 +70,6 @@ Petter Reijalt, Sander Gielisse, Rickard Karlsson, Jan van Gemert
 
 **20. [Where Do We (Not) Need Temporal Context in Low-Resource Video Task Adaptation?](https://arxiv.org/abs/2606.03837)** <br />
 Luc P.J. Sträter and Hazel Doughty
+
+**21. Ice Age Fossil Classification Using Multi-tasking and Hyperbolic Contrastive Learning**<br />
+Parto Shahroudi, Dan Stowell, Isaak Eijkelboom, Eric Postma, Anne Schulp
